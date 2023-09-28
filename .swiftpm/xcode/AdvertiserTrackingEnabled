@@ -1,0 +1,4 @@
+// Set isAdvertiserTrackingEnabled to true if a device provides consent
+Settings.shared.isAdvertiserTrackingEnabled = true
+// Set isAdvertiserTrackingEnabled to false if a device does not provide consent
+Settings.shared.isAdvertiserTrackingEnabled = false
